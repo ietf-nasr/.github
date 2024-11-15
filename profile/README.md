@@ -1,4 +1,4 @@
-# NASR mailing list materials repository
+# NASR - Network Attestation for Secure Routing 
 
 ## About
 
@@ -9,6 +9,8 @@ NASR is short for Network Attestation for Secure Routing, whose purpose is to de
 ## Past Events and Current Progress
 
 NASR was first discussed in the IETF 118 Path Validation Side Meeting. Link: https://github.com/liuchunchi/path_validation_side_meeting_118
+
+NASR held a side meeting at IETF 121 in Dublin. Materail and minutes of the meeting can be found **[here](https://github.com/ietf-nasr/IETF-121-Side-Meeting)** 
 
 NASR is actively discussing to form a self-contained problem statement / BoF proposal.
 
