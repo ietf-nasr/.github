@@ -1,5 +1,7 @@
 # NASR - Network Attestation for Secure Routing 
 
+### Highlight: [Check the Interim Meetings Page](https://github.com/ietf-nasr/NASR-Meetings)
+
 ## About
 
 This is the repo for IETF NASR-related materials.
@@ -12,7 +14,7 @@ NASR is actively discussing to form a self-contained problem statement / BoF pro
 
 NASR held an non-WG forming Bof at IETF 120 in Vancouver. Material and minutes of the Bof can be found **[here](https://datatracker.ietf.org/meeting/120/session/nasr)**  
 
-NASR held several side/interim meetings and has planned sevenral interim meeting. The complete schedule of past, current, and fujture event can be found **[here](https://github.com/ietf-nasr/NASR-Meetings)**
+NASR held several side/interim meetings and has planned several interim meeting. The complete schedule of past, current, and future event can be found **[here](https://github.com/ietf-nasr/NASR-Meetings)**
 
 ## NASR Related Documents
 
