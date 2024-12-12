@@ -4,23 +4,26 @@
 
 This is the repo for IETF NASR-related materials.
 
-NASR is short for Network Attestation for Secure Routing, whose purpose is to develop an architecture that can attest to a network path and verify if the actual traffic followed this path, in the predetermined order. The network path could either be a virtual network path consists of virtual network functions, or an underlay path consists of physical network devices. NASR is an IETF effort. 
+NASR is short for Network Attestation for Secure Routing, whose purpose is to develop an architecture that can attest to a network path and verify if the actual traffic followed this path, in the predetermined order. The network path could either be a virtual network path consists of virtual network functions, or an underlay path consists of physical network devices. 
 
 ## Past Events and Current Progress
 
 NASR is actively discussing to form a self-contained problem statement / BoF proposal.
 
-NASR held a side meeting at IETF 121 in Dublin. Materail and minutes of the meeting can be found **[here](https://github.com/ietf-nasr/IETF-121-Side-Meeting)** 
+NASR held an non-WG forming Bof at IETF 120 in Vancouver. Material and minutes of the Bof can be found **[here](https://datatracker.ietf.org/meeting/120/session/nasr)**  
 
-NASR was first discussed in the IETF 118 Path Validation Side Meeting. Link: https://github.com/liuchunchi/path_validation_side_meeting_118
+NASR held several side/interim meetings and has planned sevenral interim meeting. The complete schedule of past, current, and fujture event can be found **[here](https://github.com/ietf-nasr/NASR-Meetings)**
+
+## NASR Related Documents
+
+A list of pointers to documents that are related to NASR can be found **[here](https://github.com/ietf-nasr/NASR-Related-Docs)** 
 
 ## How to contribute
 
 **Discussion is mainly done in the mailing list. If you have new inputs, send them to the mailing list first.** 
 
-Subscribe to the NASR mailing list: https://www.ietf.org/mailman/listinfo/nasr
+Subscribe to the NASR mailing list: **https://www.ietf.org/mailman/listinfo/nasr**
 
 This repo will maintain list-level deliverables such as problem statement, gap analysis, term alignment, goals and scope, architecture, etc. Insight analysis, papers, other inputs will also be collected. 
 
-If you believe your input is relavent to above, please send to the mailing list first. Then you can open a pull request. 
-
+If you believe your input is relevant to above, please send to the **[NASR mailing list](mailto:nasr@ietf.org)** first. 
