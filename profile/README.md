@@ -1,4 +1,4 @@
-# NASR - Network Attestation for Secure Routing 
+# NASR - Network Attestation for Secured foRwarding 
 
 ### Highlight: [Check the Interim Meetings Page](https://github.com/ietf-nasr/NASR-Meetings)
 
