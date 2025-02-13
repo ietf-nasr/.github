@@ -1,7 +1,8 @@
 # NASR - Network Attestation for Secured foRwarding 
 
-### Highlight: [Check the Interim Meetings Page](https://github.com/ietf-nasr/NASR-Meetings)
-
+### Highlights: 
+- ### [Check the Interim Meetings Page](https://github.com/ietf-nasr/NASR-Meetings)
+- ### [Check the BoF Slides Folder](https://drive.google.com/drive/folders/1IZrVA9WWIdra-pZ9mY3uJW0mADzTUxf4?usp=sharing)
 ## About
 
 This is the repo for IETF NASR-related materials.
